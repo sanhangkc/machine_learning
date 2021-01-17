@@ -88,6 +88,7 @@ def visual_pca(myX, K): #可视化pca
     plt.legend()
     plt.show()
 ```
+![Figure_1 PCA过程](D:/项目/PCA/Figure_2.png)
 
 # PCA优缺点
 
@@ -111,7 +112,6 @@ $$
 $$
 1- \frac{\sum\limits_{i =1}^k s_{ii}}{\sum\limits_{i =1}^m s_{ii}} \leq 1\%
 $$
-
 
 
 # PCA应用场景
