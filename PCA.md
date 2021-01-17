@@ -122,4 +122,3 @@ PCA主要用于数据降维处理，对数据压缩去噪，将重点突出，�
 
 1，奇异值分解(SVD)原理与在降维中的应用
 https://www.cnblogs.com/pinard/p/6251584.html
-2，
