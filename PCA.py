@@ -26,6 +26,7 @@ def run_pca(myX, K): #PCA过程
     myZ = np.dot(myX_norm, U_reduced) #投影到K维空间
     myX_rec = np.dot(myZ, U_reduced.T)*std + mean #back计算特征的近似值
     proj_error = np.linalg.norm(myX-myX_rec) #计算投影误
+    print(myZ)
     return  mean, std, U, S, V, myZ, myX_rec, proj_error      
 
 def visual_pca(myX, K): #可视化pca
