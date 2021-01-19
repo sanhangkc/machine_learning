@@ -183,4 +183,7 @@ PCA将重点因素突出，不明显的因素隐藏掉，主谓分明，主要�
 # 参考文献
 
 1，奇异值分解(SVD)原理与在降维中的应用
+
 https://www.cnblogs.com/pinard/p/6251584.html
+
+2, A Singularly Valuable Decomposition:  The SVD of a Matrix
